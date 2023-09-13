@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  backuper:
+    image: vojtechsebek/backuper
+    volumes:
+      - cannaplzen_data:/home/WP
+      - ./konfigurace.py:/konfigurace.py
+      - ./key.pem:/key.pem

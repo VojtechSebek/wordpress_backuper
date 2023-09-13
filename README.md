@@ -54,7 +54,6 @@ mysql_databaze = "specific_database"
 
 TO DO :
 - For now, there´s only Czech language avalible, so the first thing to do is transtlate it into English (Untill 1 week)
-- Create repo for this Project on Github (Coming soon)
 - Fix some bugs (description space issue)
 - Create more ways to store backups (other volume, FTP, ...)
 - Create better mail structure (HTML)
